@@ -1,0 +1,22 @@
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\SANJAY BOGA\Desktop\New folder\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+C:\Users\SANJAY BOGA\source\repos\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
+D:\PRACTICE CODE\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe.config
+D:\PRACTICE CODE\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+D:\PRACTICE CODE\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+D:\PRACTICE CODE\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.AssemblyReference.cache
+D:\PRACTICE CODE\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.SuggestedBindingRedirects.cache
+D:\PRACTICE CODE\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csproj.CoreCompileInputs.cache
+D:\PRACTICE CODE\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+D:\PRACTICE CODE\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
